@@ -1,5 +1,5 @@
 # Stochastic Discrete Event-Modelling-and-Water-Meter
-This is the official code repository for the paper "Unlocking Household Water End-Use Patterns from Low Time-Resolution Smart Meter Data via Stochastic Discrete Event Modeling and Bayesian Inference" under review. 
+This is the official code repository for the paper _"Unlocking Household Water End-Use Patterns from Low Time-Resolution Smart Meter Data via Stochastic Discrete Event Modeling and Bayesian Inference"_ under review. 
 
 Sample data is provided to apply Approximate Bayesian Computation (ABC) to calibrate an stochastic household water end-use model (SThWT) using only hourly water meter data
 
